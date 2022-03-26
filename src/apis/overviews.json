@@ -1,0 +1,75 @@
+[
+    {
+        "_id":1,
+        "title":"Total Products Sold",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":2,
+        "title":"Products in Stock",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":3,
+        "title":"Sale in Progress",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":4,
+        "title":"Total Revenue Generated",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":5,
+        "title":"Amount to be collected",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":6,
+        "title":"Total Registered Users",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":7,
+        "title":"Coupons Generated",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":8,
+        "title":"Total Coins Issued",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":9,
+        "title":"Total Coins Used",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":10,
+        "title":"Total Products Sold",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":11,
+        "title":"Total Products Sold",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    },
+    {
+        "_id":12,
+        "title":"Total Products Sold",
+        "imgURL":"/images/Rectangle 16.png",
+        "value":999999999
+    }
+    
+]

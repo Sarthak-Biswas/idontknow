@@ -1,0 +1,32 @@
+.selected {
+  font-weight: 600;
+  color: yellowgreen;
+}
+
+#sidebar {
+  width: 335px;
+  height: calc(100vh - 55px);
+  background-color: #18134c;
+}
+
+#sidebar > .link {
+  display: block;
+  font-size: 16px;
+  padding: 20px 0 20px 0;
+  text-decoration: none;
+}
+
+#sidebar > .link:hover {
+  background-color: lightgreen;
+  color: black;
+}
+
+#sidebar > .link > img {
+  height: 20px;
+  width: 20px;
+  margin: 0 30px 0 30px;
+}
+
+a {
+  color: #ffffff;
+}

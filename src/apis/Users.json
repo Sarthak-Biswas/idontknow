@@ -1,0 +1,83 @@
+[
+    {
+        "_id":1,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":2,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":3,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":4,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":5,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":6,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":7,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":8,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":9,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    },
+    {
+        "_id":10,
+        "imgUrl":"/images/user.png",
+        "totalTransactions":"XXXXX99",
+        "username":"Lorem ipsum dolor sit amet",
+        "coinsInWallet":9999,
+        "usedCoins":9999
+    }
+   
+]

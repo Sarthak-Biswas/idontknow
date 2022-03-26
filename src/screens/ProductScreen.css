@@ -1,0 +1,21 @@
+#photoContainer {
+  width: 75%;
+  margin: 0 auto 0 auto;
+}
+
+#photoContainerTop,
+#photoContainerBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 0 5px 0px;
+}
+#photoContainerTop > img {
+  width: 24%;
+  height: auto;
+}
+
+#photoContainerBottom > img {
+  width: 49.5%;
+  height: auto;
+}

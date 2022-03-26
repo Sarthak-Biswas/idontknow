@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 55px;
+  background-color: #06cdff;
+  padding: 10px;
+}
+
+#nav__left {
+  height: 55px;
+  padding: 10px;
+}
+
+#nav__left > img {
+  height: 100%;
+}
+
+nav > button {
+  padding: 6px 26px 6px 26px;
+  border-radius: 8px;
+  border: none;
+}
